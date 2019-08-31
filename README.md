@@ -9,14 +9,14 @@ Chapter 2 of the course textbook.
 # Instructions
 Answer the programming problems sequentially (i.e., answer prob01 before prob02). If you have questions let your instructor or the lab assistant know. You can also consult your classmates.
 
-# Lab exercise guide
-Here's a link to the [Lab exercise guide](https://drive.google.com/open?id=1MCaTFhxM1wIeC-Iwr1FC4Fw1mVVVRXh7) in case you need to review the lab exercise objectives, grading scheme, or evaluation process.
-
 # Completion checklist
 1. Is your name at the top of your program?
 2. Did you refresh the GitHub Website and check that your updates are there?
 3. Did you comment your code where appropriate?
 4. Did you use variable names that explain the purpose/usage of the variable?
+
+# Lab exercise guide
+Here's a link to the [Lab exercise guide](https://drive.google.com/open?id=1MCaTFhxM1wIeC-Iwr1FC4Fw1mVVVRXh7) in case you need to review the lab exercise objectives, grading scheme, or evaluation process.
 
 # Code evaluation
 Open the terminal and navigate to the folder that contains this exercise. Assuming you have pulled the code inside of `/home/student/labex01-tuffy` and you are currently in `/home/student` you can issue the following commands
