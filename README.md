@@ -11,9 +11,11 @@ Answer the programming problems sequentially (i.e., answer prob01 before prob02)
 
 # Completion checklist
 1. Is your name at the top of your program?
-2. Did you refresh the GitHub Website and check that your updates are there?
-3. Did you comment your code where appropriate?
-4. Did you use variable names that explain the purpose/usage of the variable?
+2. Did you comment your code where appropriate?
+3. Did you use variable names appropriate for the purpose/usage of the variable?
+4. Does your program compile? (i.e. no errors when you run clang++)
+5. Does your program produce the desired results?
+6. **After checking in your program into git using the command line, please refresh the GitHub Website and click on your file to make sure your latest updates exist in the file on GitHub.**
 
 # Lab exercise guide
 Here's a link to the [Lab exercise guide](https://drive.google.com/open?id=1MCaTFhxM1wIeC-Iwr1FC4Fw1mVVVRXh7) in case you need to review the lab exercise objectives, grading scheme, or evaluation process.
